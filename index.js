@@ -7,4 +7,4 @@ setInterval(() => {
     console.log('Website visited!');
     await browser.close();
   });
-}, 1800000); // 15 minutes in milliseconds
+}, 900000); // 15 minutes in milliseconds
